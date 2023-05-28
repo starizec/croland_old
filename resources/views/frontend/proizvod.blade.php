@@ -160,14 +160,14 @@
     </div>
 </div>
 </div>
-<div class="container pocetna-kartice">
+{{-- <div class="container pocetna-kartice">
     <h3>U suradnji s Adria-delikatessen.com</h3>
     <div class="row">
 
         @include('frontend.adria-delikatessen.marketing')
 
     </div>
-</div>
+</div> --}}
 <div class="container pocetna-kartice">
     <h3>Svi proizvodi prodavača</h3>
     <div class="row">
